@@ -6,6 +6,7 @@ We’re an American-Nigerian NGO specialising in the development and deployment 
 
 We’re currently looking for 
 - [Senior Frontend Developers](https://github.com/eHealthAfrica/jobs/blob/master/senior-frontend-developer.md)
+- [Executive Assistant](https://github.com/eHealthAfrica/jobs/blob/master/executive-assistant.md)
 
 to join us. You’ll find more details on the positions and how to contact us in the job decriptions.
 
