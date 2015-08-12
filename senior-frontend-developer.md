@@ -2,7 +2,7 @@
 
 We’re an American-Nigerian NGO specialising in the development and deployment of tech for health. Currently one of our main focuses is the development of tools to tackle the ongoing Ebola outbreak, helping with post-outbreak measurements and supporting health in West Africa and Nigeria as well as involvement in various other programmes across the African continent. Our diverse, international software development team of 27 is located in Berlin, with various team members currently on site in Nigeria, Sierra Leone, Liberia and Guinea.
 
-We’re now looking for a __full time Senior Frontend Developer__ (freelance, minimum 6 months) with strong Javascript skills to join us, starting as soon as possible.
+We’re now looking for a __full time Senior Frontend Developer__  with strong Javascript skills to join us, starting as soon as possible.
 
 ### Your skills & experience
 
