@@ -35,6 +35,6 @@ We’re now looking for a __full time Senior Frontend Developer__  with strong J
 
 ### Sounds good to you? Contact us!
 
-If you’re interested, please contact us with a few short lines about yourself (please keep them really short) and your CV: yioula.panagopoulou@ehealthnigeria.org.
+If you’re interested, please contact us with a few short lines about yourself (please keep them really short) and your CV: recruitment_berlin@ehealthnigeria.org.
 
 __We’re looking forward to hearing from you!__
