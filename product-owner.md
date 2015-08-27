@@ -32,6 +32,6 @@ We’re currently looking for a __Product Owner__ (one year, freelance, full tim
 	
 ### Sounds good to you? Contact us!		
 	
-If you’re interested, please contact us with a few short lines about yourself and your CV: yioula.panagopoulou@ehealthnigeria.org.		
+If you’re interested, please contact us with a few short lines about yourself and your CV: recruitment_berlin@ehealthnigeria.org.		
 		
 __We’re looking forward to hearing from you!__
